@@ -16,7 +16,7 @@ const Inicio = () => {
 
         <div className="mt-10">
           <img
-            src="/src/assets/fundacion-logo.png"
+            src="/domingo/assets/fundacion-logo.png"
             alt="Logo Fundación"
             className="w-25 h-20 opacity-100"
           />

@@ -12,7 +12,7 @@ export const AppSidebar = ({ onSectionChange, currentSection }: AppSidebarProps)
       <div>
         <div className="p-6 border-b border-white/20 flex items-center gap-3">
           <img
-            src="/src/assets/logoFSD.png" // 👈 ruta del logo
+            src="/domingo/assets/logoFSD.png" // 👈 ruta del logo actualizada para GitHub Pages
             alt="Logo Fundación"
             className="w-10 h-10 object-contain" // 👈 ajusta tamaño y proporción
           />
